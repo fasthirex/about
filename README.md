@@ -8,7 +8,7 @@
 
 A verification layer that turns a student's real work into evidence an employer can trust, and a pool of proven talent that recruiters can actually search.
 
-Final Year Project · Team F26-038 · FAST-NUCES, Lahore
+Built for FAST-NUCES students, and the people hiring them.
 
 </div>
 
@@ -56,15 +56,15 @@ More in [`screenshots/`](screenshots/).
 
 A full walkthrough of the project is available as a slide deck:
 
-- [FastHireX FYP presentation (PDF)](presentation/FastHireX-FYP-Presentation.pdf)
+- [FastHireX presentation (PDF)](presentation/FastHireX-Presentation.pdf)
 
 ## About the name
 
 **FastHireX.** "FAST" stands for FAST-NUCES, where it starts. The name is chosen so it survives scaling: as the product expands to other universities, "FAST" reframes to mean *fast*, speed, with no rename needed.
 
-## Team
+## Built at FAST-NUCES
 
-Final Year Project **F26-038**, Department of Computer Science, FAST-NUCES Lahore.
+FastHireX is built by a small team of students at FAST-NUCES, Lahore.
 
 ## Links
 

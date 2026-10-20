@@ -1,6 +1,6 @@
 # Product roadmap
 
-FastHireX is a final year project in active development. This page gives a plain view of what the first version covers and where it is headed.
+FastHireX is in active development. This page gives a plain view of what the first version covers and where it is headed.
 
 ## v1 scope
 
